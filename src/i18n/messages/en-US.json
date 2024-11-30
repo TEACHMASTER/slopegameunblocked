@@ -1,0 +1,40 @@
+{
+  "common": {
+    "name":"Slope Game"
+  },
+  "nav":{
+    "games": "Hot Games"
+  },
+  "metadata":{
+    "title":"Slope Game Unblocked - Play Free Online Slope Games | slopegame.xyz",
+    "description": "Play Slope Game unblocked for free! Experience the best 3D running game with multiple versions including Slope 2 and Slope 3. No download required, play instantly in your browser."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "gameslist":{
+    "title":"Popular Slope Games Collection - Play Unblocked Versions",
+    "description":"Discover our complete collection of Slope games! From the classic Slope Game to the latest Slope 3, all your favorite unblocked games are here. Each version offers unique challenges and features while maintaining the addictive gameplay you love. Choose your favorite and start playing instantly!"
+  },
+  "hero":{
+    "title1":"Slope",
+    "title2":"Game",
+    "description":"The ultimate challenging 3D ball-rolling game",
+    "desc":"Slope Game is a thrilling 3D ball-rolling game where players race down dynamic slopes, facing unexpected twists and challenges.",
+    "btn":"Play Now"
+  },
+  "testimonials":{
+    "title":"What Players Are Saying About Slope Game",
+    "desc":"Hear from some of our players who’ve taken the challenge"
+  },
+  "ShareModel":{
+    "title":"Slope",
+    "desc":"Play Unblocked Games Online",
+    "k1":"Slope Game",
+    "k2":"Slope 2",
+    "k3":"Slope 3",
+    "k4":"unblocked games"
+  }
+}
